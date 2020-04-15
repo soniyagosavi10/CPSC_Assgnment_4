@@ -20,15 +20,15 @@ The project consists of titanic dataset. The dataset has of 7 columns. The sampl
 
 Among then, the below mentioned are categorical variables –
 
-  • Nominal Categorical: Survived, Sex, and Embarked
+    • Nominal Categorical: Survived, Sex, and Embarked
   
-  • Ordinal: PClass
+    • Ordinal: PClass
   
 And following are the numerical variables –
 
-  • Continuous: Age, Fare
+    • Continuous: Age, Fare
   
-  • Discrete: SibSp, Parch
+    • Discrete: SibSp, Parch
   
 The aim is to find out the survival rate of passengers based on different variables. So, by performing exploratory data analysis I have answered following three hypotheses based on the dataset.
 
@@ -36,8 +36,9 @@ The aim is to find out the survival rate of passengers based on different variab
   - Whether the survival rate is associated to the gender
   - Whether the survival rate is associated to the age
 
-The src folder consist of 2 ipynb files - 1. Assignment_4_Part_1
-                                          2. Assignment_4_Part_2
+The src folder consist of 2 ipynb files -
+                    1. Assignment_4_Part_1
+                    2. Assignment_4_Part_2
                                           
 The first file answers the questions related to salaries dataset and the second file consist of 3 hypothesis for titanc dataset.
 

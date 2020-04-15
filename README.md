@@ -34,13 +34,13 @@ And following are the numerical variables –
   
 The aim is to find out the survival rate of passengers based on different variables. So, by performing exploratory data analysis I have answered following three hypotheses based on the dataset.
 
-  - Whether the survival rate is associated to the class of passenger
-  - Whether the survival rate is associated to the gender
-  - Whether the survival rate is associated to the age
+    - Whether the survival rate is associated to the class of passenger
+    - Whether the survival rate is associated to the gender
+    - Whether the survival rate is associated to the age
 
 The src folder consist of 2 ipynb files -
-                    1. Assignment_4_Part_1
-                    2. Assignment_4_Part_2
+                        1. Assignment_4_Part_1
+                        2. Assignment_4_Part_2
                                           
 The first file answers the questions related to salaries dataset and the second file consist of 3 hypothesis for titanc dataset.
 

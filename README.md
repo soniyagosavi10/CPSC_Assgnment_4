@@ -1,6 +1,6 @@
 # CPSC_Assgnment_4
 
-A short important note for you Nasim - The submisson that I made on D2L has small error for Assignment 4 - Part 2 in summary report, for variables survived and age chi square analysis on age and pclass is shown and this mistake is corrected in the summary report submtted in result folder in github.
+A short important note for you Nasim - The submisson that I made on D2L has small error for Assignment 4 - Part 2 in summary report, for variables survived and age chi square analysis on age and pclass is shown and this mistake is corrected in the summary report submitted in result folder in github.
 
 Apologies for rework.
 

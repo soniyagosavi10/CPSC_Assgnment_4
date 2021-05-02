@@ -1,11 +1,5 @@
 # CPSC_Assgnment_4
 
-A short important note for you Nasim - The submisson that I made on D2L has small error for Assignment 4 - Part 2 in summary report, for variables survived and age chi square analysis on age and pclass is shown and this mistake is corrected in the summary report submitted in result folder in github.
-
-Apologies for rework.
-
-Kindly got through files in github for final submission.
-
 The project consists of titanic dataset. The dataset has of 7 columns. The sample size for dataset is 891. Following are the variables used in dataset –
 1. Passenger
 2. Survived
